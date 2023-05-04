@@ -1,0 +1,6 @@
+Markov.py -> Calcul empiriquement E[T] et trace le graphique le l'exemple
+MatriceTransition.py -> Calcul empiriquement la matrice de transition
+Markov2.py -> Calcul empiriquement la matrice de transition ( autrement )
+Occurence.py -> Proportions de chaque nucléotide ( Pour éventuellement comparer le modèle markovien avec le modèle au hasard )
+3Motif.py -> proportion des 64 mots de 3 caractères pour tester model de Markov d'ordre 2
+NewTXT.py -> prend le fichier d'ADN du chien et construit un fichier sans les caractères superflus ( les chiffres et les 'N' ) 
